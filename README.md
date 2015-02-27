@@ -1,3 +1,6 @@
 steve-guan.github.io
 ====================
-to be Octopressed... or look at this: https://help.github.com/articles/using-jekyll-with-pages/
+https://help.github.com/articles/using-jekyll-with-pages/
+http://octopress.org/
+http://hexo.io/
+https://github.com/getpelican/pelican
